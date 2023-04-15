@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  .top {
+    background-color: #FBFBFB;
+    padding: 50px;
+    text-align: left;
+  }
+  
+  .top h1 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  .top p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #5F5F5F;
+  }
+  
+  .top a {
+    display: block;
+    margin-top: 20px;
+    font-weight: bold;
+    color: purple;
+  }
+
+  .fix h1 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  .image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    background-color: #F5F5F5;
+  }
+  
+  .image img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  .image a {
+    display: block;
+    margin-top: 20px;
+    font-weight: bold;
+    color: purple;
+  }
+
+.link a {
+    display: block;
+    margin-top: 20px;
+    font-weight: bold;
+    color: purple;
+  }
+  
+  .trivia {
+    background-color: #F5F5F5;
+    padding: 50px;
+    text-align: ledt;
+  }
+  
+  .trivia h2 {
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+  
+  .trivia li {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #5F5F5F;
+  }
+  
+  .trivia li strong {
+    font-weight: bold;
+    color: purple;
+  }
+  
